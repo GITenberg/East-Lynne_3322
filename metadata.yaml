@@ -1,0 +1,49 @@
+_repo: East-Lynne_3322
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wood, Henry, Mrs.
+    aliases:
+    - Wood, Mrs. Henry
+    - Price, Ellen
+    - Ludlow, Johnny
+    - Wood, Ellen Price
+    birthdate: 1814
+    deathdate: 1887
+    gutenberg_agent_id: '1177'
+    url: http://www.gutenberg.org/2009/agents/1177
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Wood_%28author%29
+description: "East Lynne is an English sensation novel of 1861 by Ellen Wood. A Victorian\
+  \ bestseller, it is remembered chiefly for its elaborate and implausible plot, centring\
+  \ on infidelity and double identities. There have been numerous stage and film adaptations.\n\
+  The much-\"quoted\" line \"Gone! And never called me mother!\" (variant: \"Dead!\
+  \ Dead! And never called me mother!\") does not appear in the book; both variants\
+  \ come from later stage adaptations.\nThe book was originally serialised in The\
+  \ New Monthly Magazine between January 1860 and September 1861, being issued as\
+  \ a three-volume novel on 19 September 1861.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3322'
+  wikidata: Q5328900
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'Illegitimate children -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Seduction -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Accident victims -- Fiction'
+- !lcsh 'Runaway wives -- Fiction'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Governesses -- Fiction'
+- GITenberg
+title: East Lynne
+url: http://www.gutenberg.org/ebooks/3322
+wikipedia:
+- https://de.wikipedia.org/wiki/East_Lynne_(Roman)
+- https://en.wikipedia.org/wiki/East_Lynne
