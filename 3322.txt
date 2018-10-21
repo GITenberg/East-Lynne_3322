@@ -12,7 +12,8 @@ Title: East Lynne
 
 Author: Mrs. Henry Wood
 
-Release Date: April 5, 2006 [EBook #3322] Last Updated: February 7, 2013
+Release Date: April 5, 2006 [EBook #3322]
+Last Updated: July 13, 2016
 
 Language: English
 
@@ -910,7 +911,7 @@ commonly called Mr. Justice Hare.
 The room to the left hand, as you went in, was the general sitting-room;
 the other was very much kept boxed up in lavender and brown Holland, to
 be opened on state occasions. Justice and Mrs. Hare had three children,
-a son and two daughters. Annie was the elder of the girls, and had
+a son and two daughters. Anne was the elder of the girls, and had
 married young; Barbara, the younger was now nineteen, and Richard the
 eldest--but we shall come to him hereafter.
 
@@ -25688,7 +25689,7 @@ of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
 Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal fees. 
+liability to you for damages, costs and expenses, including legal fees.
 YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY,
 BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN
 PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND
